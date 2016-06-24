@@ -2954,7 +2954,8 @@
 
 		.wrapper.style4 {
 			background-color: transparent;
-		}
+		  text-align: center;
+    }
 
 		.wrapper.style5 {
 			background-color: #ffffff;
